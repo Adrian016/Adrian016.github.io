@@ -2,3 +2,5 @@
 Personal portfolio page.
 
 <a href="https://adrian016.github.io/hello/">My First GH Page</a>
+
+Just some stuff I was thinkin about...
